@@ -16,7 +16,7 @@ function App() {
           </div>
           <div className="col-md-9 col-12">
           <h1 style={{ textAlign: 'center', margin: 'auto', display: 'block' ,padding: '10px 0',fontSize:"19px"}}>
-      Diagram Flow
+                      Diagram Flow
           </h1>
             <DiagramFlow />
           </div>
